@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "fr"
-title                    : "Simon Decomble"
+title                    : "Portfolio"
 title_separator          : "-"
-subtitle                 : "Portfolio"
+subtitle                 : 
 name                     : "Simon Decomble"
 description              : "Machine Learning & Data Science"
 url                      : "https://kyn76.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kyn76/kyn76.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,9 +90,9 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: https://www.linkedin.com/in/simon-decomble/
+  type                   :  # Person or Organization (defaults to Person)
+  name                   :  # If the user or organization name differs from the site's name
+  links: 
 
 # Analytics
 analytics:
@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Simon Decomble"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Etudiant en Master 2 Machine Learning"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "Master 2 Machine Learning"
   location         : "Université de Lille"
-  email            :
+  email            : "simon.decomble@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "simon.decomble@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "simon.decomble@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,6 +122,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/simon-decomble"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kyn76"
@@ -189,6 +192,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Conversion
 markdown: kramdown
@@ -290,3 +297,22 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+
+
