@@ -1,6 +1,6 @@
 ---
 title: "Simulations d'infrastructures routières intelligentes"
-excerpt: "Mise en place de situations routières réalistes via le simulateur SUMO, collecte de données pour mise en place d'un système multi-agents minimisant l'attente des véhicules"
+excerpt: "Situations routières réalistes via le simulateur SUMO, collecte de données pour forger un système multi-agents minimisant l'attente des véhicules"
 header:
   image: /assets/images/road.jpg
   teaser: assets/images/road.jpg

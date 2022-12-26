@@ -1,6 +1,6 @@
 ---
 title: "Analyse de sentiments sur Twitter"
-excerpt: "Mise en pratique d'analyses syntaxiques et sémantiques de tweets aﬁn d'extraire le sentiment global lié à unthème sur le réseau social"
+excerpt: "Analyses syntaxiques et sémantiques de tweets aﬁn d'extraire le sentiment global lié à un thème sur le réseau social"
 header:
   image: /assets/images/sentwitter.jpg
   teaser: assets/images/sentwitter.jpg
