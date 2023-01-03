@@ -6,4 +6,18 @@ header:
   teaser: assets/images/tymon.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non sem mattis, rutrum justo eu, cursus nisl. Donec tortor leo, feugiat nec tincidunt at, pharetra sit amet ligula. Mauris quis eros in augue faucibus pellentesque elementum et arcu. Suspendisse ornare tellus ut dignissim egestas. Duis eu interdum urna. Donec vitae ipsum sed purus posuere bibendum. Donec tincidunt aliquet blandit. Aenean porta odio et mauris laoreet tristique. Vestibulum leo mi, ullamcorper ut luctus non, facilisis sed sapien. Maecenas vel tristique lorem. Curabitur bibendum mauris sit amet mauris malesuada, ac scelerisque risus scelerisque. Donec tincidunt luctus lorem, vitae vehicula ex ornare sed. Pellentesque vel mi justo. Sed ex ligula, suscipit ut purus vitae, feugiat finibus metus. 
+Tymon (dérivé du terme *étymon*) est un petit programme personnel qui répond à une problématique à laquelle j'ai pu être confronté. Etant de nature curieuse et plutôt fan d'étymologie, il m'arrive souvent de me demander d'où viennent certains mots. Une recherche Google suffit, mais si je décide de chercher l'origine d'autres mots, il faut changer de page encore et encore. Sans compter le fait que d'autres informations sur le mot apparaissent en plus de son étymologie.  
+
+Je me suis donc mis à la recherche d'un agrégateur étymologique, mais n'en trouvant aucun, j'ai décidé de le créer moi même. Il me suffit désormais d'ouvrir un terminal, d'invoquer ma commande suivie du mot cherché, avec éventuellement une option si je veux chercher l'origine de mots en anglais. J'ai prévu d'étendre davantage l'outil pour notamment rajouter d'autres langues, ou améliorer l'affichage en anglais.  
+
+### Fonctionnement :
+Le programme, écrit en Python, est basé sur un requêtage du site Wikitionnaire (Wiktionary) via cURL. Une fois le HTML de la page récupéré, je navigue à l'intérieur de cette arborescence pour trouver la section étymologique et extraire le texte sur l'origine du mot. Il suffit ensuite de ne retourner que ces informations à l'utilisateur.
+
+### Compétences invoquées :
+- Utilisation d'API en Python
+- Navigation dans une arborescence HTML, via des librairies Python
+- Publication de code open-source (GitHub, effort sur la clarté du code)
+- Résolution libre d'une problématique, démarche personnelle
+
+
+[Le repository de l'outil est disponible ici.](https://github.com/kyn76/tymon)
