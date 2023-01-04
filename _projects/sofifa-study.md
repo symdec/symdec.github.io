@@ -6,6 +6,22 @@ header:
   teaser: assets/images/sofifa.jpg
 ---
 
+Ce projet mobilise beaucoup de compétences de data scientist, il est centré autour de l'analyse du dataset de statistiques du jeu vidéo de football Fifa 2022. Cette analyse à la fois globale et en profondeur a été réalisée de manière individuelle, les axes de développement du projet étant son nettoyage (modeste comparé à d'autres datasets), son formattage, son analyse statistique, ainsi que son exploitation : détection de groupes de joueurs aux statistiques proches, prédiction de remplaçants possibles pour certains joueurs ou encore prédiction de la valeur des footballeurs.  
 
+Les fichiers du projet (notebooks, code métier, datasets, rapports) sont disponibles sur [ce dépôt GitHub](https://github.com/kyn76/sofifa-study).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non sem mattis, rutrum justo eu, cursus nisl. Donec tortor leo, feugiat nec tincidunt at, pharetra sit amet ligula. Mauris quis eros in augue faucibus pellentesque elementum et arcu. Suspendisse ornare tellus ut dignissim egestas. Duis eu interdum urna. Donec vitae ipsum sed purus posuere bibendum. Donec tincidunt aliquet blandit. Aenean porta odio et mauris laoreet tristique. Vestibulum leo mi, ullamcorper ut luctus non, facilisis sed sapien. Maecenas vel tristique lorem. Curabitur bibendum mauris sit amet mauris malesuada, ac scelerisque risus scelerisque. Donec tincidunt luctus lorem, vitae vehicula ex ornare sed. Pellentesque vel mi justo. Sed ex ligula, suscipit ut purus vitae, feugiat finibus metus. 
+Le rapport de la partie 1 et 2 (préparation des données, analyses de corrélations et de statistiques, segmentation) est [trouvable ici](https://github.com/kyn76/sofifa-study/blob/main/sofifa_part1-2.md).  
+
+Le rapport de la partie 3 (prédictions de valeurs et salaires des joueurs, exploitation concrète du dataset) est [trouvable ici](https://github.com/kyn76/sofifa-study/blob/main/sofifa_part3.md).  
+
+Les versions PDF sont également disponibles sur le dépôt.  
+
+### Compétences mises en oeuvre :
+- Preprocessing des données, Data Engineering, gestion de données manquantes / peu expressives
+- Analyses statistiques (attributs catégoriels et continus), décorrelation
+- Mise en place et évaluation de clustering
+- Gestion de classes non équilibrées
+- Mise en place et comparaison de modèles de prédiction (régression et classification)
+- Evaluation des modèles et interprétation de métriques
+- Aptitude à faire parler les données et tirer des conclusions grâce aux meilleurs modèles obtenus 
+- Organisation claire de notebooks : commentaires, visualisations, appel de code dans une librairie customisée à part, (code réutilisable et testable)
