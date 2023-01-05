@@ -16,6 +16,9 @@ Le rapport de la partie 3 (prédictions de valeurs et salaires des joueurs, expl
 
 Les versions PDF sont également disponibles sur le dépôt.  
 
+### Date du projet :
+Septembre - Décembre 2022
+
 ### Compétences mises en oeuvre :
 - Preprocessing des données, Data Engineering, gestion de données manquantes / peu expressives
 - Analyses statistiques (attributs catégoriels et continus), décorrelation

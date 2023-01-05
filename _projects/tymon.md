@@ -19,7 +19,10 @@ Le programme, écrit en Python, est basé sur un requêtage du site Wikitionnair
 
 {% include gallery caption="Exemple d'utilisation de Tymon" %}
 
-### Compétences invoquées :
+### Date du projet :
+Octobre 2022 - présent
+
+### Compétences mises en oeuvre :
 - Utilisation d'API en Python
 - Navigation dans une arborescence HTML, via des librairies Python
 - Publication de code open-source (GitHub, effort sur la clarté du code)

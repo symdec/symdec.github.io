@@ -16,6 +16,8 @@ Depuis le milieu des années 2010, l'utilisation des réseaux de neurone profond
 
 Mon mémoire (en cours d'écriture) est centré sur la comparaison des approches de résolution de coréférence avant et après cette révolution du Deep Learning.
 
+### Date du projet :
+Mai 2022 - présent
 
 ### Compétences acquises :
 - Compréhension et extraction d'informations dans la littérature scientifique orientée Machine Learning et NLP
