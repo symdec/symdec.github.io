@@ -25,6 +25,7 @@ Septembre - Novembre 2021
 ### Compétences mises en oeuvres :
 - Compréhension de modèles de machine learning basiques en NLP, car implémentation soi-même
 - Intereaction avec une API de réseau social
+- Programmation orientée objet
 - Preprocessing de langage naturel pour donner au texte une forme adaptée aux algorithmes (tokenizer, filtres etc.)
 - Classification : par dictionnaire, KNN, Naive Bayes
 - Evaluation de modèles et d'hyperparamètres

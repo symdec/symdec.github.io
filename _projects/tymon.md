@@ -19,6 +19,8 @@ Le programme, écrit en Python, est basé sur un requêtage du site Wikitionnair
 
 {% include gallery caption="Exemple d'utilisation de Tymon" %}
 
+[Le dépôt GitHub de l'outil est disponible ici.](https://github.com/kyn76/tymon)
+
 ### Date du projet :
 Octobre 2022 - présent
 
@@ -27,6 +29,3 @@ Octobre 2022 - présent
 - Navigation dans une arborescence HTML, via des librairies Python
 - Publication de code open-source (GitHub, effort sur la clarté du code)
 - Résolution libre d'une problématique, démarche personnelle
-
-
-[Le repository de l'outil est disponible ici.](https://github.com/kyn76/tymon)

@@ -32,4 +32,4 @@ Octobre - Novembre 2022
 - Mise en place d'une **API Flask** : fournit une interface pour l'utilisation du modèle de prédiction
 - Paramétrage d'un modèle de forecast **ARIMA**
 - Création d'instances **InfluxDB**, configuration et interactions avec la base
-- scripts bash et Python
+- Scripts bash et Python

@@ -4,6 +4,20 @@ excerpt: "Implémentation multi-agents de résolution d'un problème classique d
 header:
   image: /assets/images/delivery.jpg
   teaser: assets/images/delivery.jpg
+gallery:
+  - url: /assets/images/sma1.png
+    image_path: assets/images/sma1.png
+    alt: "Collecte de colis - étape 1"
+  - url: /assets/images/sma2.png
+    image_path: assets/images/sma2.png
+    alt: "Collecte de colis - étape 2"
+  - url: /assets/images/sma3.png
+    image_path: assets/images/sma3.png
+    alt: "Collecte de colis - étape 3"
+gallery2:
+  - url: /assets/images/sma.png
+    image_path: assets/images/sma.png
+    alt: "Collecte de colis - Simulation plus complexe"
 ---
 
 Ce projet réalisé en binôme vise à résoudre un problème de logistique : la collecte de colis par des livreurs et leur acheminement vers un dépôt. Chaque colis possède une masse donnée, chaque livreur possède une force donnée. Ainsi, certains colis nécessitent que des livreurs forment une équipe pour les transporter. L'objectif visé est d'acheminer tous les colis en minimisant l'effort de tous les livreurs, l'approche est donc utilitariste (elle maximise le bonheur moyen).  
@@ -17,6 +31,11 @@ Nous avons implémenté différentes stratégies de collecte/livraison :
 Le problème a été abordé selon le paradigme objet, chaque élément de la simulation est un objet, notamment les actions réalisées par les livreurs (déplacement, collecte, dépôt, échange, agrégation). L'abstraction du problème en classes et sous-classes a été hardue mais a ensuite permis une implémentation efficace.  
 
 L'effort des livreurs est quantifié au cours des simulations, ce qui a permis d'évaluer les différentes stratégies et de conclure qu'elles sont de plus en plus efficaces à mesure qu'on descend dans la liste ci-dessus.
+
+{% include gallery caption="3 étapes d'une simulation de collecte/livraison de colis.   Légende : vert pomme = livreur(s), vert foncé = livreur(s) portant un colis, marron = colis, bleu = dépôt. Les livreurs sont identifiés avec des lettres, les colis portant des lettres sont visés par les livreurs correspondant." %}
+
+
+{% include gallery id="gallery2" caption="Simulation plus complexe." %}
 
 ### Date du projet :
 Octobre - Novembre 2022

@@ -6,7 +6,7 @@ header:
   teaser: assets/images/sofifa.jpg
 ---
 
-Ce projet mobilise beaucoup de compétences de data scientist, il est centré autour de l'analyse du dataset de statistiques du jeu vidéo de football Fifa 2022. Cette analyse à la fois globale et en profondeur a été réalisée de manière individuelle, les axes de développement du projet étant son nettoyage (modeste comparé à d'autres datasets), son formattage, son analyse statistique, ainsi que son exploitation : détection de groupes de joueurs aux statistiques proches, prédiction de remplaçants possibles pour certains joueurs ou encore prédiction de la valeur des footballeurs.  
+Ce projet mobilise beaucoup d'aspects de la pipeline de travail du data scientist. Il est centré autour de l'analyse du dataset de statistiques du jeu vidéo de football Fifa 2022. Cette analyse à la fois globale et en profondeur a été réalisée de manière individuelle, les axes de développement du projet étant son nettoyage (modeste comparé à d'autres datasets), son formattage, son analyse statistique, ainsi que son exploitation : détection de groupes de joueurs aux statistiques proches, prédiction de remplaçants possibles pour certains joueurs ou encore prédiction de la valeur des footballeurs.  
 
 Les fichiers du projet (notebooks, code métier, datasets, rapports) sont disponibles sur [ce dépôt GitHub](https://github.com/kyn76/sofifa-study).  
 
@@ -27,4 +27,4 @@ Septembre - Décembre 2022
 - Mise en place et comparaison de modèles de prédiction (régression et classification)
 - Evaluation des modèles et interprétation de métriques
 - Aptitude à faire parler les données et tirer des conclusions grâce aux meilleurs modèles obtenus 
-- Organisation claire de notebooks : commentaires, visualisations, appel de code dans une librairie customisée à part, (code réutilisable et testable)
+- Organisation claire de notebooks : commentaires, visualisations, appel de code dans une librairie customisée à part (code modulaire et testable)

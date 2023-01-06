@@ -12,7 +12,7 @@ Il s'agit d'un travail académique (en cours) de lecture et synthèse d'articles
 
 *Exemple :* Dans les phrases "Mon chien est noir et blanc. Il aime jouer.", les expressions *Mon chien* et *Il* sont coréférentes, et désignent la même entité : mon chien.  
 
-Depuis le milieu des années 2010, l'utilisation des réseaux de neurone profonds a déclenché une révolution en terme d'efficacité pour de nombreuses tâches, notamment de traitement du langage humain. La résolution de coréférence n'a pas fait exception et des progrès significatifs ont été observés.  
+Depuis le milieu des années 2010, l'utilisation des réseaux de neurone profonds a déclenché une révolution en terme d'efficacité pour de nombreuses tâches, notamment dans le traitement du langage humain. La résolution de coréférence n'a pas fait exception et des progrès significatifs ont été observés.  
 
 Mon mémoire (en cours d'écriture) est centré sur la comparaison des approches de résolution de coréférence avant et après cette révolution du Deep Learning.
 
@@ -24,7 +24,7 @@ Mai 2022 - présent
 - En conséquence : capacité de veille technologique efficace
 - Expression et communication écrite accrue (anglais et français)
 - Esprit de synthèse
-- Confrontation à des formalismes théoriques derrière des applications state-of-the-art (algorithmes et architectures neuronales : RNN, LStM etc., probabilités, programmation linéaire, graphes)
+- Confrontation à des formalismes théoriques derrière des applications state-of-the-art (algorithmes et architectures neuronales : RNN, LSTM etc., probabilités, programmation linéaire, graphes)
 
 
 ### Littérature explorée pour la rédaction du mémoire :
