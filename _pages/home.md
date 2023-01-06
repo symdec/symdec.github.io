@@ -7,7 +7,7 @@ classes: wide
 ---
 
 Je suis étudiant en dernière année de Master informatique spécialité Machine Learning.  
-Le but de ce site web est de présenter plus en détail mon profil, les projets réalisés et les compétences que j'ai pu acquérir pendant leur déroulement.  
+Le but de ce site web est de présenter plus en détail mon profil, les [projets réalisés](https://kyn76.github.io/projects/) et les compétences que j'ai pu acquérir pendant leur déroulement.  
 
 Mes compétences professionnelles se construisent autour d'un domaine très actif depuis quelques années : l'intelligence artificielle. Cette terminologie étant assez générale et grand public, je me dois d'être plus précis. Mes deux domaines d'étude principaux sont la **Data Science** et le **Machine Learning**. En particulier, un sous-domaine que j'ai eu l'opportunité de creuser est le **Natural Language Processing**.
 
