@@ -3,6 +3,30 @@ title: Expérience professionnelle
 permalink: /experience
 ---
 
+## Machine Learning Engineer - CDI
+### Septembre 2023 - Présent
+*Worldline - Seclin*  
+
+Speech-to-text et résumé automatique à l'aide de LLM (large language models).
+Analyse des sentiments, RAG (Retrieval-Augmented Generation), construction de ChatBot.
+
+🤖 Expérience avec LLMs open-source et hébergés, ex : Llama2/3, Mistral, Gemma, Gemini, GPT4 + LLM frameworks : LangChain, LlamaIndex
+
+🔊 Expérience avec modèles STT open-source : Whisper et ses variantes
+
+📝 Prompt Engineering
+
+💭 Outils de données et de Machine Learning sur Google Cloud Platform, Vertex AI et Hugging Face
+
+📦 Model packaging et serving avec Docker, FastAPI, vLLM, Vertex AI
+
+📈 Scripting & Benchmarking pour comparer les modèles de Machine Learning
+
+⚙️ Connaissances sur l'optimisation des modèles (Pytorch, Tensorflow) : fonctionnement des transformer et du mécanisme d'attention, quantification, fine-tuning, considérations hardware.
+
+Démonstrations graphiques rapides avec Gradio et Streamlit
+
+
 ## Intelligent Process Automation (IPA) Engineer - Stage
 ### Mars - Septembre 2023
 *Sopra Steria - Villeneuve d'Ascq*  
@@ -37,10 +61,3 @@ Compétences acquises :
 - **Extraction et mise en avant d'informations utiles à partir de données denses et désordonnées**
 
 [Exemple de dashboards et visualisations Kibana](https://www.elastic.co/kibana/)
-
-## Stagiaire - Maintenance mécanique
-### Juillet 2020 / Juillet à Août 2019
-*RDM - Blendecques*
-
-Stages estivaux dans le service de maintenance d'une cartonnerie.  
-Apports sur le monde industriel et le fonctionnement de systèmes automatisés.

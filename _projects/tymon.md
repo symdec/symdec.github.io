@@ -18,14 +18,14 @@ Je me suis donc mis à la recherche d'un agrégateur étymologique, mais n'en tr
 ### Fonctionnement :
 Le programme, écrit en Python, est basé sur un requêtage du site Wikitionnaire (Wiktionary) via cURL. Une fois le HTML de la page récupéré, je navigue à l'intérieur de cette arborescence pour trouver la section étymologique et extraire le texte sur l'origine du mot. Il suffit ensuite de ne retourner que ces informations à l'utilisateur.
 
-Je travaille actuellement sur une extension propulsée par NLP et permettant une recherche complémentaire d'étymologie dans le cas où la requête au Wikitionnaire est infructueuse. Elle récupèrerait le contenu des premières pages résultats suite à une recherche internet, puis utiliserait un modèle de Question Answering d'HuggingFace afin d'extraire l'étymologie quelque soit la manière dont elle est explicitée dans la page.
+Je travaille actuellement sur une extension propulsée par NLP et permettant une recherche complémentaire d'étymologie dans le cas où la requête au Wikitionnaire est infructueuse. Elle récupèrerait le contenu des premières pages / résultats suite à une recherche internet, puis utiliserait un modèle de Question Answering d'HuggingFace afin d'extraire l'étymologie quelque soit la manière dont elle est explicitée dans la page.
 
 {% include gallery caption="Exemple d'utilisation de Tymon" %}
 
 [Le dépôt GitHub de l'outil est disponible ici.](https://github.com/kyn76/tymon)
 
 ### Date du projet :
-Octobre 2022 - présent
+Octobre 2022 - 2023
 
 ### Compétences mises en oeuvre :
 - Utilisation d'API en Python

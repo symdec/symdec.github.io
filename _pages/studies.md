@@ -3,8 +3,8 @@ title: Parcours scolaire
 permalink: /studies
 ---
 
-## Master - Machine Learning (2021-2023)
-*Université de Lille*  
+## Master - Machine Learning (2021-2023)  
+*Université de Lille* - **Mention Très Bien**  
 Cursus qui allie compétences théoriques et techniques.  
 - Apports théoriques en Data Science et informatique décisionnelle.
 - Apports pratiques sur les bases de données (SQL et NoSQL).
@@ -14,8 +14,8 @@ Cursus qui allie compétences théoriques et techniques.
 [Détail du parcours, des compétences et des unités d'enseignement](https://www.fil.univ-lille.fr/portail/index.php?dipl=MInfo&sem=ML&ue=ACCUEIL&label=Pr%C3%A9sentation).
 
 ## Licence 2 et 3 - Informatique (2019-2021)
-*Université de Lille*  
-Apports initiaux très variés sur de nombreux champs de l'informatique.
+*Université de Lille* - **Mention Très Bien**  
+Apports initiaux dans de nombreux sous-domaines de l'informatique et de la programmation.
 
 ## CPGE - Filière BCPST (2017-2019)
 *Lycée Faidherbe - Lille*  
