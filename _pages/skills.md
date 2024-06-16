@@ -40,7 +40,7 @@ Apprentissage en cours de ce langage sur mon temps personnel. Les raisons pour l
 - Gestion intelligentes des dépendances, du packaging et de la portabilité
 - Aspect fonctionnel (élégance et concision du code)  
 
-Projet en Rust pour prendre en main le langage : [Rust in Action](https://github.com/kyn76/rust-in-action)
+Mini-projets en Rust qui m'aident à prendre en main le langage : [Rust in Action](https://github.com/kyn76/rust-in-action)
 
 #### Bash ⭐
 Utilisation récurrente de ce langage pour réaliser du scripting ou des automatisations d'intégration et développement continus (dans le cadre de Gitlab CI par exemple).
