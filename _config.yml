@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Simon Decomble"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Master 2 Machine Learning"
-  location         : "Université de Lille"
+  bio              : "Machine Learning Engineer"
+  location         : "Lille"
   email            : "simon.decomble@gmail.com"
   links:
     # - label: "Email"
