@@ -4,12 +4,12 @@ main:
     url: "/"
   - title: Projets
     url: "/projects"
+  - title: Compétences
+    url: "/skills"
   - title: Expérience
     url: "/experience"
   - title: Parcours
     url: "/studies"
-  - title: Compétences
-    url: "/skills"
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
