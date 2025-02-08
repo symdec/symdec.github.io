@@ -22,7 +22,7 @@ Je travaille actuellement sur une extension propulsée par NLP et permettant une
 
 {% include gallery caption="Exemple d'utilisation de Tymon" %}
 
-[Le dépôt GitHub de l'outil est disponible ici.](https://github.com/kyn76/tymon)
+[Le dépôt GitHub de l'outil est disponible ici.](https://github.com/symdec/tymon)
 
 ### Date du projet :
 Octobre 2022 - 2023

@@ -17,7 +17,7 @@ Notre sujet se centre autour d'une timeseries database, via la technologie Influ
 - les performances en terme de temps d'entraînement du modèle de Machine Learning
 - la redondance des informations sur InfluxDB
 
-Le détail de l'étude est disponible [à ce lien](https://github.com/kyn76/influxdb-benchmarking), le rapport d'étude étant présent dans le fichier `Readme.md`.  
+Le détail de l'étude est disponible [à ce lien](https://github.com/symdec/influxdb-benchmarking), le rapport d'étude étant présent dans le fichier `Readme.md`.  
 
 ### Date du projet :
 Octobre - Novembre 2022

@@ -17,7 +17,7 @@ Nous avons également mis en place des scoreurs de ces différents modèles.
 
 Ce projet a été réalisé en Java, les algorithmes des modèles ci-dessus ont donc été écrit dans un paradigme purement objet.  
 
-Le code source n'est pas rendu disponible mais les détails de la démarche et des résultats sont visibles dans le rapport [à ce lien](https://github.com/kyn76/twitter-sentiment-report/blob/main/Twitter-Feelings-Report.pdf).
+Le code source n'est pas rendu disponible mais les détails de la démarche et des résultats sont visibles dans le rapport [à ce lien](https://github.com/symdec/twitter-sentiment-report/blob/main/Twitter-Feelings-Report.pdf).
 
 ### Date du projet :
 Septembre - Novembre 2021
