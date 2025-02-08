@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Simon Decomble"
 description              : "Machine Learning & Data Science"
-url                      : "https://kyn76.github.io"
+url                      : "https://symdec.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kyn76/kyn76.github.io"
+repository               : "symdec/symdec.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -127,7 +127,7 @@ author:
       url: "https://www.linkedin.com/in/simon-decomble"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kyn76"
+      url: "https://github.com/symdec"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kyn76"
+      url: "https://github.com/symdec"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
